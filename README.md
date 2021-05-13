@@ -1,4 +1,4 @@
-# AWS Professional Solutions Architect Preparation (Draft)
+# AWS Solutions Architect Professional Preparation (Draft)
 
 # Resources
 - [Hands-on](www..com)
