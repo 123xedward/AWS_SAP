@@ -1,12 +1,12 @@
 # AWS Solutions Architect Professional Preparation (Draft)
 
-# Resources
+## Resources
 - [Hands-on](www..com)
 - [Practice exams](www.com)
 - [Courses](www.com)
 - [Study Guide](www.com)
 
-# Exam Detail
+## Exam Detail
 |   |   |
 | ------ | ------ |
 | Exam Code | SAP-C01 |
