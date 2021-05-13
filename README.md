@@ -7,7 +7,7 @@
 - [Study Guide](www.com)
 
 # Exam Detail
-| Plugin | README |
+|   |   |
 | ------ | ------ |
 | Exam Code | SAP-C01 |
 | Release Date | February 2019 |
