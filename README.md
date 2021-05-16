@@ -28,5 +28,5 @@
 | Domain 4 | Cost Control|12.5%|
 | Domain 5 | Continuos Improvement for Existing Solutions|29%|
 
-## AWS Services to Focus On
+## AWS Services to Focus On 
 
